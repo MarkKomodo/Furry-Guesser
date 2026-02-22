@@ -1,5 +1,6 @@
 import json
 import re
+import sys
 
 def clean_text(text):
     # Removes numbers, dots, dashes, and stars from the start
@@ -10,14 +11,16 @@ def get_indent(line):
     return len(line) - len(line.lstrip())
 
 def parse_to_tree(filename):
-    with open(filename, 'r') as f:
-        # Filter out empty lines
-        lines = [l for l in f.readlines() if l.strip()]
+    try:
+        with open(filename, 'r', encoding='utf-8') as f:
+            lines = [l for l in f.readlines() if l.strip()]
+    except FileNotFoundError:
+        print(f"❌ Error: {filename} not found.")
+        return None
 
     if not lines:
         return None
 
-    # Stack to keep track of nodes at different indentation levels
     stack = []
     root = None
 
@@ -26,41 +29,40 @@ def parse_to_tree(filename):
         text = clean_text(line)
         new_node = {"data": text, "yes": None, "no": None}
 
-        # If the stack is empty, this is our root
         if not stack:
             root = new_node
             stack.append((indent, new_node))
             continue
 
-        # Find the parent or sibling
-        # Pop from stack until we find a node with less or equal indent
+        # Navigate the stack to find the parent
         while stack and stack[-1][0] > indent:
             stack.pop()
 
         if not stack:
-            # This shouldn't happen with proper indentation
             continue
 
         last_indent, last_node = stack[-1]
 
         if indent > last_indent:
-            # This is a CHILD (The "YES" path)
+            # CHILD (YES)
             last_node["yes"] = new_node
         else:
-            # This is a SIBLING (The "NO" path)
-            # Find the actual last node at this level to attach to
+            # SIBLING (NO)
+            # We need to find the node at the same level to attach the "NO" to
             last_node["no"] = new_node
-            stack.pop() # Remove the old sibling to make room for the new one
+            stack.pop()
 
         stack.append((indent, new_node))
 
     return root
 
 # Main execution
-try:
-    tree_data = parse_to_tree('questions.txt')
-    with open('data.json', 'w') as f:
+tree_data = parse_to_tree('questions.txt')
+
+if tree_data:
+    with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(tree_data, f, indent=4)
-    print("✅ Success! data.json created with an iterative loop.")
-except Exception as e:
-    print(f"❌ Error: {e}")
+    print("✅ Success! data.json updated.")
+else:
+    print("❌ Error: Tree data was empty. Check questions.txt format.")
+    sys.exit(1) # Force the GitHub Action to fail so you know something is wrong
