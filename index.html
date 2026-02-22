@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Furry Finder | The Fandom Guesser</title>
+    <style>
+        :root {
+            --primary: #6c5ce7;
+            --secondary: #a29bfe;
+            --bg: #2d3436;
+            --text: #dfe6e9;
+            --card: #353b48;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        #game-container {
+            background-color: var(--card);
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            text-align: center;
+            max-width: 500px;
+            width: 90%;
+        }
+
+        h1 { color: var(--secondary); margin-bottom: 0.5rem; }
+        p#question-text { font-size: 1.5rem; min-height: 80px; margin: 2rem 0; }
+
+        .btn-group { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+
+        button {
+            padding: 12px 25px;
+            font-size: 1rem;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: transform 0.1s, background 0.2s;
+            font-weight: bold;
+        }
+
+        button:active { transform: scale(0.95); }
+
+        .btn-yes { background-color: #00b894; color: white; }
+        .btn-no { background-color: #d63031; color: white; }
+        .btn-reset { background-color: #0984e3; color: white; margin-top: 20px; }
+        .btn-export { background-color: #636e72; color: white; font-size: 0.8rem; margin-top: 40px; }
+
+        .hidden { display: none; }
+
+        input[type="text"] {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+<div id="game-container">
+    <h1>🐾 Furry Finder</h1>
+    <hr style="border: 0.5px solid var(--secondary); opacity: 0.3;">
+    
+    <div id="game-ui">
+        <p id="question-text">Loading the species database...</p>
+        <div class="btn-group" id="action-buttons">
+            <button class="btn-yes" onclick="handleInput(true)">Yes</button>
+            <button class="btn-no" onclick="handleInput(false)">No</button>
+        </div>
+    </div>
+
+    <div id="learning-ui" class="hidden">
+        <p>Aww, you stumped me! Who was it?</p>
+        <input type="text" id="new-character-name" placeholder="Character/Species Name">
+        <p>Give me a question where the answer is <strong>YES</strong> for them, but <strong>NO</strong> for what I guessed:</p>
+        <input type="text" id="new-question" placeholder="e.g. Does it have scales?">
+        <br>
+        <button class="btn-yes" onclick="submitNewKnowledge()">Teach Me!</button>
+    </div>
+
+    <button class="btn-reset" onclick="initGame()">Start Over</button>
+    <br>
+    <button class="btn-export" onclick="exportData()">💾 Export Tree Data</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
