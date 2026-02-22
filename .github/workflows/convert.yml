@@ -1,16 +1,28 @@
 name: Convert Question Bank
+
 on:
   push:
     paths:
-      - 'questions.txt' # Only runs when you change this file
+      - 'questions.txt'
+  workflow_dispatch: {} # This line creates the manual "Run" button
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
       - name: Run Python Compiler
         run: python compiler.py
-      - name: Commit JSON
+
+      - name: Commit and Push JSON
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
