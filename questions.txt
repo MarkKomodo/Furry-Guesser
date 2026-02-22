@@ -1,0 +1,1627 @@
+Is your character a Hybrid?
+Is your character based on Community-Made Original Species?
+Is your character a Protogen or Primagen?
+Is your character a Dutch Angel Dragon?
+Is your character a Manokit?
+Is your character a Sergal?
+Is your character a Wickerbeast?
+Is your character based on another original species that hasn't been listed?
+Is your character based on a Real-World Animal Group?
+Is your character a Canine?
+Is your character a Domestic Dog?
+Is your character a mixed breed (Mutt)?
+Is your character a specific dog breed?
+Is your character a small dog breed?
+Is your character a Chihuahua?
+Is your character a Corgi?
+Is your character a Dachshund?
+Is your character a Pomeranian?  
+Is your character a Shiba Inu?
+Is your character a Yorkshire Terrier?
+Is your character a medium dog breed?
+Is your character an Australian Shepherd?
+Is your character a Beagle?
+Is your character a Border Collie?
+Is your character a Boxer?
+Is your character a Bulldog?
+Is your character a Cocker Spaniel?
+Is your character a Dalmatian?
+Is your character a Shetland Sheepdog (Sheltie)?
+Is your character a large dog breed?
+Is your character a Bernese?
+Is your character a Doberman?
+Is your character a German Shepherd?
+Is your character a Golden Retriever?
+Is your character a Great Dane?
+Is your character a Husky?
+Is your character a Malamute?
+Is your character a Mastiff?
+Is your character a Labrador Retriever?
+Is your character a Rottweiler?
+Is your character a Saint Bernard?
+Is your character a Wild Canine?
+Is your character a wolf?
+Is your character a specific type of wolf?
+Is your character a gray wolf?
+Is your character an arctic wolf?
+Is your character a red wolf?
+Is your character another type of wolf that hasn't been listed?
+Is your character a fox?
+Is your character a specific type of fox?
+Is your character a red fox?
+Is your character a fennec fox?
+Is your character an arctic fox?
+Is your character a bat-eared fox?
+Is your character a corsac fox?
+Is your character another type of fox that hasn't been listed?
+Is your character a coyote?
+Is your character a jackal?
+Is your character a dhole?
+Is your character a maned wolf?
+Is your character a Feline?
+Is your character a Domestic Cat?
+Is your character a Mixed Breed (Moggy)?
+Is your character a Specific Cat Breed?
+Is your character a Small/Slender Cat Breed?
+Is your character a Siamese Cat?
+Is your character an Oriental Shorthair Cat?
+Is your character a Devon Rex Cat?
+Is your character a Sphynx Cat?
+Is your character a Medium/Average-Sized Cat Breed?
+Is your character an American Shorthair Cat?
+Is your character a British Shorthair Cat?
+Is your character a Russian Blue Cat?
+Is your character a Scottish Fold Cat?
+Is your character a Ragdoll Cat?
+Is your character a Large/Fluffy Cat Breed?
+Is your character a Maine Coon Cat?
+Is your character a Norwegian Forest Cat?
+Is your character a Persian Cat?
+Is your character a Ragamuffin Cat?
+Is your character a Wild Feline?
+Is your character a Big Wild Feline?
+Is your character a Lion?
+Is your character a Tiger?
+Is your character a Leopard?
+Is your character a Jaguar?
+Is your character a Snow Leopard?
+Is your character a Cougar/Puma/Mountain Lion?
+Is your character a Cheetah?
+Is your character a Small Wild Feline?
+Is your character a Lynx/Bobcat?
+Is your character a Caracal?
+Is your character a Serval?
+Is your character a Fishing Cat?
+Is your character a Sand Cat?
+Is your character a Margay/Ocelot?
+Is your character an Ursine (Bear)?
+Is your character a specific ursine species?
+Is your character a brown/grizzly bear?
+Is your character a polar bear?
+Is your character a black bear?
+Is your character a kodiak bear?
+Is your character a panda bear?
+Is your character a sun bear?
+Is your character a sloth bear?
+Is your character a Hyena?
+Is your character a specific type of hyena?
+Is your character a Spotted Hyena?
+Is your character a Striped Hyena?
+Is your character a Brown Hyena?
+Is your character an Aardwolf?
+Is your character an Ungulate (hoofed mammal)?
+Is your character an equine?
+Is your character a horse?
+Is your character a donkey?
+Is your character a zebra?
+Is your character a mule?
+Is your character a bovine?
+Is your character a cow or cattle?
+Is your character a yak?
+Is your character a bison?
+Is your character a buffalo?
+Is your character an ox?
+Is your character a cervid (deer family)?
+Is your character a deer or caribou?
+Is your character a moose?
+Is your character an elk?
+Is your character a caprine?
+Is your character a goat?
+Is your character a sheep?
+Is your character a suid (pigs & boars)?
+Is your character a domestic pig?
+Is your character a wild boar?
+Is your character a warthog?
+Is your character a babirusa?
+Is your character a camelid?
+Is your character a camel?
+Is your character a dromedary?
+Is your character a llama?
+Is your character an alpaca?
+Is your character a guanaco?
+Is your character a vicuna?
+Is your character a girraffid?
+Is your character a giraffe?
+Is your character an okapi?
+Is your character a rhinoceros?
+Is your character a tapir?
+Is your character a hippopotamus
+Is your character a Reptile?
+Is your character a lizard?
+Is your character a specific species of lizard?
+Is your character a gecko?
+Is your character a komodo dragon?
+Is your character an iguana?
+Is your character a skink?
+Is your character a chameleon?
+Is your character an anole?
+Is your character a snake?
+Is your character a constrictor species of snake?
+Is your character a boa?
+Is your character a python?
+Is your character a venomous species of snake?
+Is your character a cobra?
+Is your character a viper?
+Is your character a rattlesnake?
+Is your character a mamba?
+Is your character a coral snake?
+Is your character a colubrid species of snake?
+Is your character a non-venomous species of snake?
+Is your character a turtle or tortoise?
+Is your character a land tortoise?
+Is your character a freshwater turtle?
+Is your character a sea turtle?
+Is your character a crocodilian?
+Is your character a crocodile?
+Is your character an alligator or caiman?
+Is your character a gharial?
+Is your character a prehistoric or extinct reptile?
+Is your character a land-dwelling extinct reptile?
+Is your character a dinosaur?
+Is your character a theropod (bipedal carnivore)?
+Is your character a sauropod (long neck & tail herbivore)?
+Is your character a ceratopsian (large frills & facial horns herbivore)?
+Is your character a hadrosaurid (duck-billed herbivore, often crested)?
+Is your character a stegosaurid (bony plates & spiked tail herbivore)?
+Is your character an ankylosaurid (armored herbivore with club tail)?
+Is your character a land-dwelling extinct reptile (e.g., early archosaurs, non-dinosaur prehistoric lizards)
+Is your character a water-dwelling extinct reptile?
+Is your character a plesiosaur?
+Is your character a mosasaur?
+Is your character an ichthyosaur?
+Is your character a winged extinct reptile (pterosaurs)?
+Is your character a Pteranodon?
+Is your character a Quetzalcoatlus?
+Is your character an Avian?
+Is your character a specific species of avian?
+Is your character a songbird avian?
+Is your character a sparrow?
+Is your character a robin?
+Is your character a finch?
+Is your character a canary?
+Is your character a nightingale?
+Is your character a raptor avian?
+Is your character a hawk?
+Is your character an eagle?
+Is your character a falcon?
+Is your character an osprey?
+Is your character a harrier?
+Is your character a waterfowl avian?
+Is your character a duck?
+Is your character a goose?
+Is your character a swan?
+Is your character a teal?
+Is your character a merganser?
+Is your character a flightless bird?
+Is your character an ostrich?
+Is your character an emu?
+Is your character a penguin?
+Is your character a kiwi?
+Is your character a cassowary?
+Is your character a parrot?
+Is your character a macaw?
+Is your character a cockatoo?
+Is your character a budgerigar (budgie)?
+Is your character an African grey parrot?
+Is your character an Amazon parrot?
+Is your character an Amphibian?
+Is your character a frog or toad?
+Is your character a tree frog?
+Is your character a poison dart frog?
+Is your character a bullfrog?
+Is your character a toad?
+Is your character a salamander or newt?
+Is your character a tiger salamander?
+Is your character a axolotl?
+Is your character a newt?
+Is your character a caecilian (limbless, vermiform, or serpentine amphibian)?
+Is your character a common caecilian?
+Is your character a rubber eel caecilian?
+Is your character an Insect?
+Is your character a type of beetle?
+Is your character a ladybug?
+Is your character a stag beetle?
+Is your character a scarab beetle?
+Is your character a rhinoceros beetle?
+Is your character a type of ant?
+Is your character a carpenter ant?
+Is your character a fire ant?
+Is your character a butterfly?
+Is your character a moth?
+Is your character a honeybee?
+Is your character a bumblebee?
+Is your character a yellowjacket wasp?
+Is your character a grasshopper?
+Is your character a cricket?
+Is your character a dragonfly?
+Is your character a damselfly?
+Is your character Aquatic?
+Is your character a type of marine mammal?
+Is your character a dolphin?
+Is your character a whale?
+Is your character a pinniped (e.g. seal, sea lion, walrus)?
+Is your character a seal?
+Is your character a harbor seal (species)?
+Is your character a gray seal (species)?
+Is your character a leopard seal (species)?
+Is your character an elephant seal (species)?
+Is your character a sea lion?
+Is your character a california sea lion (species)?
+Is your character a steller sea lion (species)?
+Is your character a walrus?
+Is your character an atlantic walrus (species)?
+Is your character a pacific walrus (species)?
+Is your character a specific species of fish?
+Is your character a salmon?
+Is your character a clownfish?
+Is your character a goldfish?
+Is your character a guppy?
+Is your character a betta fish?
+Is your character a angelfish?
+Is your character a type of crustacean?
+Is your character a crab?
+Is your character a lobster?
+Is your character a shrimp?
+Is your character a prawn?
+Is your character a type of cephalopod?
+Is your character an octopus?
+Is your character a squid?
+Is your character a cuttlefish?
+Is your character a type of mollusk?
+Is your character a clam?
+Is your character an oyster?
+Is your character a sea snail?
+Is your character a conch?
+Is your character a shark?
+Is your character a ray or skate?
+Is your character a coral?
+Is your character a sponge?
+Is your character a starfish?
+Is your character a sea urchin?
+Is your character a sand dollar?
+Is your character a Rodent?
+Is your character a mouse?
+Is your character a house mouse?
+Is your character a deer mouse?
+Is your character a rat?
+Is your character a brown rat (species)?
+Is your character a black rat (species)?
+Is your character a squirrel?
+Is your character a tree squirrel (species)?
+Is your character a ground squirrel (species)?
+Is your character a flying squirrel (species)?
+Is your character a beaver?
+Is your character a North American beaver (species)?
+Is your character a Eurasian beaver (species)?
+Is your character a guinea pig?
+Is your character a domestic guinea pig (species)?
+Is your character a wild cavy (species)?
+Is your character a chipmunk?
+Is your character an eastern chipmunk (species)?
+Is your character a siberian chipmunk (species)?
+Is your character a marmot?
+Is your character a yellow-bellied marmot (species)?
+Is your character a groundhog (species)?
+Is your character a porcupine?
+Is your character a north american porcupine (species)?
+Is your character a african crested porcupine (species)?
+Is your character a Marsupial?
+Is your character a kangaroo?
+Is your character a red kangaroo (species)?
+Is your character an eastern grey kangaroo (species)?
+Is your character a western grey kangaroo (species)?
+Is your character a wallaby?
+Is your character a swamp wallaby (species)?
+Is your character a brush-tailed rock-wallaby (species)?
+Is your character a possum?
+Is your character a common brushtail possum (species)?
+Is your character a ringtail possum (species)?
+Is your character a koala?
+Is your character a bandicoot?
+Is your character a northern brown bandicoot (species)?
+Is your character a southern brown bandicoot (species)?
+Is your character a wombat?
+Is your character a common wombat (species)?
+Is your character a southern hairy-nosed wombat (species)?
+Is your character a Primate?
+Is your character a monkey?
+Is your character a capuchin monkey (species)?
+Is your character a macaque (species)?
+Is your character a howler monkey (species)?
+Is your character a spider monkey (species)?
+Is your character an ape?
+Is your character a chimpanzee?
+Is your character a gorilla?
+Is your character an orangutan?
+Is your character a gibbon?
+Is your character a lemur?
+Is your character a ring-tailed lemur (species)?
+Is your character an indri lemur (species)?
+Is your character a sifaka lemur (species)?
+Is your character a tarsier?
+Is your character a Mustelid?
+Is your character a weasel?
+Is your character a least weasel (species)?
+Is your character a long-tailed weasel (species)?
+Is your character a stoat (species)?
+Is your character a ferret?
+Is your character a domestic ferret (species)?
+Is your character a black-footed ferret (species)?
+Is your character a mink?
+Is your character an american mink (species)?
+Is your character a european mink (species)?
+Is your character an otter?
+Is your character a north american river otter (species)?
+Is your character a sea otter (species)?
+Is your character a giant otter (species)?
+Is your character a badger?
+Is your character a European badger (species)?
+Is your character an American badger (species)?
+Is your character a Procyonid (e.g. raccoons, coatis.)?
+Is your character a raccoon?
+Is your character a common raccoon (species)?
+Is your character a crab-eating raccoon (species)?
+Is your character a coati?
+Is your character a white-nosed coati (species)?
+Is your character a ring-tailed coati (species)?
+Is your character a kinkajou?
+Is your character a ring-tailed cat?
+Is your character an olingo?
+Is your character a tanuki?
+Is your character an Arachnid?
+Is your character a spider?
+Is your character a tarantula spider (species)?
+Is your character a jumping spider (species)?
+Is your character an orb-weaver spider (species)?
+Is your character a wolf spider (species)?
+Is your character a black widow spider (species)?
+Is your character a daddy long-legs spider (species)?
+Is your character a scorpion?
+Is your character an emperor scorpion (species)?
+Is your character a deathstalker scorpion (species)?
+Is your character a tick?
+Is your character a mite?
+Is your character a Bat?
+Is your character a megabat?
+Is your character a flying fox bat (species)?
+Is your character an egyptian fruit bat (species)?
+Is your character a microbat?
+Is your character a little brown bat (species)?
+Is your character a big brown bat (species)?
+Is your character a vampire bat?
+Is your character a common vampire bat (species)?
+Is your character a hairy-legged vampire bat (species)?
+Is your character a white-winged vampire bat (species)?
+Is your character an Annelid (worm)?
+Is your character an earthworm?
+Is your character a leech?
+Is your character a Pokémon?
+Is your character a Legendary or Mythical Pokémon?
+Is your character an Eevee or one of its evolutions (an "Eeveelution")?
+Is your character primarily identified by its type?
+Is your character a starter Pokémon (or one of its evolutions)?
+Is your character a Fire-type Pokémon?
+Is your character a Water-type Pokémon?
+Is your character a Grass-type Pokémon?
+Is your character an Electric-type Pokémon?
+Is your character a Fighting-type Pokémon?
+Is your character a Psychic-type Pokémon?
+Is your character a Ghost-type Pokémon?
+Is your character a Dragon-type Pokémon?
+Is your character a Rock or Ground-type Pokémon?
+Is your character a Normal-type Pokémon?
+Is your character a Flying-type Pokémon?
+Is your character a Dark-type Pokémon?
+Is your character a Steel-type Pokémon?
+Is your character a Fairy-type Pokémon?
+Is your character a Digimon?
+Is your character a Rookie (Child) level Digimon?
+Is your character a Champion (Adult) level Digimon?
+Is your character an Ultimate (Perfect) level Digimon?
+Is your character a Mega (Ultimate) level Digimon?
+Is your character a Royal Knight or a high-ranking Digimon?
+Is your character a Demon Lord Digimon?
+Is your character an Appmon?
+Is your character a X-Antibody Digimon?
+Is your character a Hybrid/Spirit Digimon?
+Is your character an unconfirmed or unknown level Digimon?
+Is your character a Mythological Creature?
+Is your character of Egyptian mythological origin?
+Is your character related to Anubis?
+Is your character related to Bastet?
+Is your character a dragon?
+Is your character a Western dragon (typically four-legged and winged)?
+Is your character an Eastern or Lung dragon (typically serpentine and often wingless)?
+Is your character a Wyvern (two legs, two wings)?
+Is your character a Drake (four-legged and wingless)?
+Is your character a gryphon?
+Is your character a unicorn?
+Is your character a kitsune?
+Is your character a sphinx?
+Is your character a phoenix?
+Is your character a hippogriff?
+Is your character a cerberus?
+Is your character a gargoyle?
+Is your character a manticore?
+Is your character a Kirin or Qilin?
+Is your character a Peryton?
+Is your character a werewolf or werecreature?
+Is your character a werewolf (human-wolf)?
+Is your character a werecat (human-feline)?
+Is your character a chimera or multi-animal fusion?
+Is your character a demon?
+Is your character an angel?
+Is your character a cryptid?
+Is your character a Bigfoot or Sasquatch?
+Is your character a Mothman?
+Is your character a Chupacabra?
+Is your character a Jersey Devil?
+Is your character a Loch Ness Monster?
+Is your character an alien?
+Is your character a parasite?
+Is your character a robot/android/cyborg?
+Is your character a fantastical species not based on real-world animals or traditional mythology (e.g., a creature unique to its fictional universe)?
+Is your character's species unidentifiable or unknown?
+Fictional Media / Cultural Origin / Pop Culture
+Is your character from a fictional media or cultural origin?
+Is your character from an anime or Japanese media?
+Is your character from Beastars?
+Is your character from BNA: Brand New Animal?
+Is your character from Aggretsuko?
+Is your character from Kemono Friends?
+Is your character from a video game?
+Is your character from a Nintendo game?
+Is your character from the Super Mario series?
+Is your character from the Star Fox series?
+Is your character from the Animal Crossing series?
+Is your character from the Donkey Kong Country series?
+Is your character from the Kirby series?
+Is your character from a Sega game?
+Is your character from the Sonic the Hedgehog series?
+Is your character from Nights into Dreams?
+Is your character from Billy Hatcher and the Giant Egg?
+Is your character from an Activision Blizzard game?
+Is your character from the Crash Bandicoot series?
+Is your character from the Spyro the Dragon series?
+Is your character from an independent game developer or other publisher?
+Is your character from Night in the Woods?
+Is your character from Dust: An Elysian Tail?
+Is your character from Cult of the Lamb?
+Is your character from Undertale or Deltarune?
+Is your character from Five Nights at Freddy's?
+Is your character from the Ori series?
+Is your character from the Sly Cooper series?
+Is your character from a book/comic?
+Is your character from a book?
+Is your character from a Fantasy book?
+Is your character from the "Redwall" series?
+Is your character from the "Warriors" series?
+Is your character from the "Wings of Fire" series?
+Is your character from an Adventure or Classic Animal Literature book?
+Is your character from "Watership Down"?
+Is your character from "Mrs. Frisby and the Rats of NIMH"?
+Is your character from "The Jungle Book"?
+Is your character from "The Wind in the Willows"?
+Is your character from the "Silverwing" series?
+Is your character from a Children's or Young Adult book (not primarily fantasy/adventure)?
+Is your character from a Beatrix Potter book (e.g., The Tale of Peter Rabbit)?
+Is your character from a Winnie-the-Pooh book?
+Is your character from a Paddington Bear book?
+Is your character from a Curious George book?
+Is your character from a Clifford the Big Red Dog book?
+Is your character from a comic or graphic novel?
+Is your character from "Usagi Yojimbo"?
+Is your character from "Blacksad"?
+Is your character from "Mouse Guard"?
+Is your character from "Fables"?
+Is your character from "Maus"?
+Is your character from "Teenage Mutant Ninja Turtles" (comic series origin)?
+Is your character from a movie/film?
+Is your character from Disney?
+Is your character from "Zootopia"?
+Is your character from "The Lion King"?
+Is your character from "Robin Hood"?
+Is your character from "Brother Bear"?
+Is your character from Pixar?
+Is your character from "Finding Nemo" or "Finding Dory"?
+Is your character from "Monsters, Inc." or "Monsters University"?
+Is your character from "Cars" series?
+Is your character from DreamWorks?
+Is your character from the "Kung Fu Panda" series?
+Is your character from the "Shrek" series?
+Is your character from the "Madagascar" series?
+Is your character from the "How to Train Your Dragon" series?
+Is your character from Blue Sky Studios/20th Century Fox?
+Is your character from the "Ice Age" series?
+Is your character from "Rio"?
+Is your character from Warner Bros?
+Is your character from "Space Jam" (original or "A New Legacy")?
+Is your character from "Who Framed Roger Rabbit"?
+Is your character from "Looney Tunes: Back in Action"?
+Is your character from an independent film studio?
+Is your character from "Fantastic Mr. Fox"?
+Is your character from "Sing" or "Sing 2"?
+Is your character from "The Secret of NIMH"?
+Is your character from "The Land Before Time" series?
+Is your character from "Flow"?
+Is your character from a cartoon or animated TV series?
+Is your character from a classic Looney Tunes or Merrie Melodies cartoon?
+Is your character from Scooby-Doo?
+Is your character from Tom & Jerry?
+Is your character from Yogi Bear?
+Is your character from Cartoon Network?
+Is your character from Steven Universe?
+Is your character from The Amazing World of Gumball?
+Is your character from We Bare Bears?
+Is your character from Regular Show?
+Is your character from Adventure Time?
+Is your character from Teen Titans Go?
+Is your character from Ben 10 (any series)?
+Is your character from Dexter's Laboratory?
+Is your character from The Powerpuff Girls?
+Is your character from Ed, Edd n Eddy?
+Is your character from Courage the Cowardly Dog?
+Is your character from Foster's Home for Imaginary Friends?
+Is your character from Nickelodeon?
+Is your character from Teen Mutant Ninja Turtles?
+Is your character from Spongebob SquarePants
+Is your character from The Loud House?
+Is your character from Rugrats?
+Is your character from Hey Arnold!?
+Is your character from The Fairly OddParents?
+Is your character from Invader Zim?
+Is your character from Danny Phantom?
+Is your character from Avatar: The Last Airbender or The Legend of Korra?
+Is your character from Ren & Stimpy?
+Is your character from Rocko's Modern Life?
+Is your character from an adult animated series?
+Is your character from BoJack Horseman?
+Is your character from Family Guy?
+Is your character from South Park?
+Is your character from Futurama?
+Is your character from Rick and Morty?
+Is your character from The Simpsons?
+Is your character from American Dad!?
+Is your character from Hazbin Hotel or Helluva Boss?
+Is your character from a Disney Channel/XD/Junior animated series?
+Is your character from Phineas & Ferb?
+Is your character from Gravity Falls?
+Is your character from Bluey?
+Is your character from The Owl House?
+Is your character from Amphibia?
+Is your character from DuckTales?
+Is your character from Kim Possible?
+Is your character from another cartoon or animated TV series that hasn't been listed?
+Is your character from a Webcomic or Webseries?
+Is your character from "TwoKinds"?
+Is your character from "Housepets!"?
+Is your character from "Lackadaisy"?
+Is your character from a Tabletop Role-Playing Game (TTRPG)?
+Is your character from "Dungeons & Dragons"?
+Is your character from "Pathfinder"?
+Is your character primarily known from an Online Community or Internet Phenomenon (e.g., a meme character, a character from a specific online art community)?
+Is your character bipedal (walks on two legs)?
+Is your character quadrupedal (walks on four legs)?
+Is your character limbless or serpentine (e.g., snake-like, worm-like)?
+Is your character a hybrid of stances (e.g., can switch between bipedal and quadrupedal, or has more than 4 limbs)?
+Does your character have a feral stance?
+Is your character primarily a single, solid color?
+Is your character primarily Neutral colored?
+Is your character predominantly colored Black?
+Is your character predominantly colored White?
+Is your character predominantly colored Gray?
+Is your character predominantly colored Brown (including tan, beige, cream)?
+Is your character primarily Warm colored?
+Is your character predominantly colored Red (including natural animal shades like fox red, ginger, and bright reds)?
+Is your character predominantly colored Orange?
+Is your character predominantly colored Yellow?
+Is your character predominantly colored Pink (including magenta, fuchsia)?
+Is your character primarily Cold colored?
+Is your character predominantly colored Blue (including light blue, navy, teal)?
+Is your character predominantly colored Green (including lime, forest green)?
+Is your character predominantly colored Purple (including lavender, violet)?
+Is your character's primary color metallic or iridescent (e.g., gold, silver, bronze, shimmering scales)?
+Is your character predominantly colored Gold?
+Is your character predominantly colored Silver?
+Is your character predominantly colored Bronze?
+Is your character primarily double-colored?
+Does your character have any Red color (including natural animal shades like fox red, ginger, and bright reds)?
+Does your character have any Orange color?
+Does your character have any Yellow color?
+Does your character have any Green color (including lime, forest green)?
+Does your character have any Blue color (including light blue, navy, teal)?
+Does your character have any Purple color (including lavender, violet)?
+Does your character have any Pink color (including magenta, fuchsia)?
+Does your character have any Black color?
+Does your character have any Gray color?
+Does your character have any White color?
+Does your character have any Brown color?
+Is your character transparent or translucent?
+Is your character multi-chromatic/rainbow colored?
+Does your character have a distinct pattern?
+Does your character have stripes?
+Does your character have spots?
+Does your character have patches or gradients?
+Does your character have a symbol on their body?
+Does your character have a complex or unique pattern?
+Is your character multi-colored with no distinct pattern (e.g., mottled, speckled, marbled)?
+Does your character possess physical features commonly associated with humans or humanoids?
+Does your character have human-like ears (e.g., distinct from or in addition to animal ears, or visible through hair)?
+Does your character have hair (distinct from fur/feathers/scales covering the body)?
+Does your character have long hair (e.g., past shoulders)?
+Does your character have short hair (e.g., pixie, buzzcut, above shoulders)?
+Does your character have a specific hair style (e.g., mohawk, dreadlocks, braids, ponytail, styled bangs)?
+Is your character's hair unusually colored or patterned (e.g., unnatural colors, streaks, complex designs)?
+Does your character have human-like hands or feet (e.g., five distinct digits, opposable thumbs, human-like nails)?
+Does your character have wings?
+Does your character have feathered wings?
+Does your character have leathery wings (e.g., bat-like, dragon-like)?
+Does your character have insectoid wings?
+Does your character has vestigial or non-functional wings?
+Does your character have wings that are unusually large or small for their species?
+Does your character have multiple pairs of wings?
+Does your character have horns or antlers?
+Does your character have large and prominent horns/antlers?
+Does your character have small and subtle horns/antlers??
+Does your character have unusually shaped or patterned horns/antlers?
+Does your character have a tail?
+Does your character have multiple tails?
+Does your character have a comically large tail?
+Does your character have a small/nub tail?
+Does your character have an unusually shaped or featured tail?
+Does your character have prominent claws, fangs, or spikes?
+Does your character use their claws/fangs/spikes for combat or defense?
+Does your character have unique eye features?
+Does your character have multiple eyes?
+Does your character have glowing eyes?
+Does your character have an unusual pupil shape (e.g., slit, horizontal, complex, non-existent)?
+Is one of your character's body parts alive or sentient (e.g., a sentient tail, a detached sentient limb)?
+Does your character have a sentient body part detached from the main body?
+Does your character have a sentient body part that has a distinct personality or mind from the main character?
+Does your character have a distinct body covering?
+Is your character's primary covering fur (e.g., short, long, shaggy)?
+Is your character's primary covering scales?
+Is your character's primary covering feathers?
+Is your character's primary covering smooth skin or hide?
+Is your character usually seen wearing clothing or body accessories?
+Does your character wear typical human clothing (e.g., shirt, pants, dress, socks)?
+Does your character wear armor?
+Does your character wear a scarf(s)?
+Does your character wear a hat(s)?
+Does your character wear a collar(s)?
+Does your character wear a piercing(s)?
+Does your character wear a piercing on their nose (septum)?
+Does your character wear a cape?
+Is your character usually seen as having almost no clothing?
+Is your character usually seen as naked?
+Is your character's height normal-sized?
+Is your character's height smaller than normal?
+Is your character's height bigger than normal?
+Does your character have an unidentifiable height, or frequently changes size?
+Is your character slim or slender?
+Is your character buff or muscular?
+Is your character average/medium build?
+Is your character bulky/heavy-set/chubby?
+Is your character very fat or blob-sized?
+Is your character's build unidentifiable or changes frequently?
+Does your character have fur?
+Does your character have long and fluffy fur?
+Does your character have short or sleek fur?
+Does your character have feathers?
+Does your character have long feathers?
+Does your character have short feathers?
+Does your character have scales?
+Does your character have rough skin?
+Is your character's body-coat type irrelevant or unidentifiable?
+Does your character identify as a male?
+Does your character identify as a female?
+Does your character identify as transgender (does not align with the sex they were assigned at birth)?
+Does your character identify as non-binary (not exclusively male or female)?
+Does your character identify as genderfluid or genderflux (changes over time or varies in intensity)?
+Does your character identify as agender or genderless (don't identify with any gender)?
+Does your character identify as pangender (they identify as all genders)?
+Does your character identify as heterosexual or straight (primarily attracted to people of the opposite gender)?
+Does your character identify as homosexual (gay/lesbian) (primarily attracted to people of the same gender)?
+Does your character identify as bisexual (attracted to both men and women)?
+Does your character identify as pansexual (attracted to people regardless of their gender)?
+Does your character identify as asexual (experiences little or no sexual attraction)?
+Does your character identify as demisexual (experiences sexual attraction only after forming a strong emotional bond)?
+Is your character generally heroic or good-aligned?
+Is your character a villain or evil-aligned?
+Is your character an anti-hero or morally ambiguous?
+Is your character neutral or morally unaligned?
+Is your character's alignment/disposition unidentifiable or irrelevant?
+Does your character possess special abilities or powers?
+Does your character use magic or supernatural powers?
+Does your character rely on advanced technology or gadgets?
+Does your character have extraordinary physical abilities (e.g., super strength, speed, agility)?
+Does your character primarily use natural animal abilities (e.g., sharp claws, keen senses, natural camouflage)?
+Does your character have no special powers or abilities?
+Is your character highly intelligent or exceptionally bright?
+Does your character possess advanced problem-solving skills as part of their intelligence?
+Does your character have extensive knowledge in specific fields as part of their intelligence?
+Is your character of average intelligence or comparable to a typical human?
+Is your character simple-minded, foolish, or intellectually limited?
+Does your character often make naive or illogical decisions due to their intelligence?
+Does your character have significant difficulty with complex tasks due to their intelligence?
+Is your character sentient (capable of feeling and perceiving)?
+Is your character sentient in a traditional biological sense (e.g., human, animal)?
+Is your character sentient in a non-traditional way (e.g., an artificial intelligence, a magical construct, a sentient object)?
+Is your character non-sentient or primarily driven by instinct (e.g., an animal with basic awareness, a mindless creature)?
+Does your character possess unique cognitive abilities or perceptions?
+Does your character have heightened sensory perception beyond normal limits (e.g., super sight, enhanced hearing)?
+Does your character have an unusual way of processing information or perceiving reality?
+Does your character have special cognitive abilities (e.g., photographic memory, rapid calculation, perfect recall)?
+Is your character a leader or in a position of authority within a hierarchy?
+Does your character lead a large organization or nation?
+Does your character lead a small group or team?
+Does your character hold a position of authority but not direct leadership (e.g., a judge, a high-ranking official)?
+Does your character's leadership or authority status primarily involve being a ruler or monarch?
+Is your character a follower or part of a group within a hierarchy?
+Does your character follow a specific leader or individual?
+Does your character belong to a military or disciplined organization?
+Does your character belong to a non-military group, team, or community?
+Does your character adhere to a strict set of rules or chain of command in a hierarchy?
+Is your character independent or solitary within a hierarchy?
+Does your character primarily work alone or operate independently?
+Does your character reject all forms of hierarchy or authority?
+Is your character an outcast or exile from a societal hierarchy?
+Does your character have a specific profession or social standing?
+1. Is your character primarily involved in combat or protection?
+Is your character a warrior, knight, or soldier?
+Is your character a guard, mercenary, or bounty hunter?
+Is your character an assassin or rogue?
+Is your character primarily involved in knowledge, magic, or creation?
+Is your character a scholar, librarian, or teacher?
+Is your character a scientist, inventor, or engineer?
+Is your character a mage, wizard, or sorcerer?
+Is your character a healer, medic, or druid?
+Is your character primarily involved in trade, craft, or common labor?
+Is your character a merchant, trader, or shopkeeper?
+Is your character a craftsperson or artisan (e.g., blacksmith, tailor, baker, artist)?
+Is your character a farmer, miner, or laborer?
+Is your character a servant or performer?
+Is your character primarily involved in social leadership or hierarchy?
+Is your character royalty (e.g., king, queen, prince, princess)?
+Is your character nobility (e.g., duke, count, lord)?
+Is your character a religious leader (e.g., priest, cleric, shaman)?
+Is your character a political leader or official (e.g., mayor, governor)?
+Is your character primarily an outlaw or trickster?
+Is your character a thief, bandit, or pirate?
+Is your character a trickster or prankster?
+Is your character a common citizen with no specific role/occupation?
+Is your character's role/occupation unidentifiable or irrelevant?
+Does your character carry or use specific and identifiable accessories or props?
+Does your character carry or use a signature weapon?
+Does your character carry or use melee weapon (e.g., sword, axe, dagger, spear, club)?
+Does your character carry or use ranged weapon (e.g., bow, crossbow, firearm, throwing knife)?
+Does your character carry or use magical weapon (e.g., staff, wand, enchanted blade)?
+Does your character carry or use an unconventional or unique weapon (e.g., whip, gauntlet, specialized gadget)?
+Does your character utilize a specific tool or distinctive prop?
+Does your character carry or use a container or bag (e.g., a distinctive backpack, satchel)?
+Does your character carry or use a musical instrument or artistic tool (e.g., a guitar, paintbrush, easel)?
+Does your character carry or use an item for knowledge or information (e.g., a unique book, scroll, map, journal)?
+Does your character carry or use a functional or professional tool (e.g., a camera, toolkit, scientific instrument, lockpicks)?
+Does your character carry or use tools/props that are unidentifiable or irrelevant?
+Does your character possess a unique magical artifact or relic?
+Does your character possess a magical orb or crystal?
+Does your character possess an enchanted piece of jewelry or amulet?
+Does your character possess a magical book or scroll?
+Does your character possess a cursed object?
+Does your character have a specific type of communication device (e.g., a unique radio, a distinctive phone)?
+Does your character have a modern electronic device (e.g., smartphone, tablet, laptop)?
+Does your character have an old-fashioned or analog device (e.g., unique radio, telegraph)?
+Does your character have a magical or supernatural communication device?
+Does your character carry a specific type of food or drink item (e.g., a signature lollipop, an iconic bottle)?
+Does your character carry a sweet food item (e.g., candy, pastry, lollipop)?
+Does your character carry a specific type of fruit or vegetable?
+Does your character carry a savory food item (e.g., bread, sandwich, chicken nuggets)?
+Does your character carry a unique or iconic bottled/canned drink?
+Does your character carry an alcoholic beverage?
+Does your character carry a food/drink item that is unidentifiable or irrelevant?
+Do they have other specific identifying accessories/props not listed?
+Does your characters carry accessories/props that are unidentifiable or irrelevant?
+Does your character have significant relationships or affiliations?
+Is your character part of a defined group or organization?
+Is your character part of a team, guild, or adventuring party?
+Is your character part of a military or law enforcement organization?
+Is your character part of a criminal organization or gang?
+Is your character part of a family group or clan?
+Is your character part of a religious or spiritual order?
+Does your character have notable family relationships?
+Does your character have a living parent or guardian figure?
+Does your character have a sibling?
+Does your character have a spouse/husband or significant other?
+Does your character have a child or protégé?
+Does your character have a specific friend or ally they are known for?
+Does your character is a very close friend or best friend to another character?
+Is your character a mentor figure?
+Is your character an animal companion or pet?
+Does your character have a prominent rival or enemy?
+Does your character have a personal nemesis or arch-enemy?
+Does your character has a rival from a competing group or faction?
+Is your character primarily solitary or an outcast?
+Is your character's primary setting tied to a specific time period or technological level?
+Is your character's setting a modern-day or contemporary one?
+Is your character's setting a futuristic or science fiction one (e.g., advanced technology, space)?
+Is your character's setting a historical or past one (e.g., medieval, ancient, steampunk)?
+Is your character's setting a fantasy one (e.g., magic, mythological creatures, low tech)?
+Is your character's setting a post-apocalyptic or dystopian one?
+Is your character's setting a blend of multiple time periods or technologies?
+Is your character's primary environment a specific type of geographical location?
+Is your character's environment an urban one (e.g., city, town, metropolis)?
+Is your character's environment a rural or wilderness one (e.g., forest, plains, mountains, farm)?
+Is your character's environment an aquatic or underwater one?
+Is your character's environment an aerial or sky-based one?
+Is your character's environment an underground or subterranean one (e.g., caves, dungeons, sewers)?
+Is your character's environment an alien planet or outer space?
+Is your character's reality a specific type of world or dimension?
+Is your character's reality the real world (e.g., Earth, known history)?
+Is your character's reality a fictional world or universe (e.g., from a specific book, game, movie)?
+Is your character's reality a digital or virtual one (e.g., inside a game, internet)?
+Is your character's reality a dream world or spiritual realm?
+Does your character have distinctive communication or speech patterns?
+Does your character use a specific catchphrase or repeated phrase?
+Does your character have an unusual vocalization (e.g., growls, chirps, clicks, honks)?
+Does your character have a unique speaking manner (e.g., stutter, lisp, distinct accent)?
+Is your character generally silent or rarely speaks?
+Does your character display specific physical quirks or mannerisms?
+Does your character have a distinctive walk or posture?
+Does your character often fidget or pace?
+Does your character use unusual or signature gestures?
+Does your character have a prominent physical tic?
+Does your character follow specific routines or engage in recurring actions?
+Does your character have a notable daily routine?
+Is your character known for regularly performing a specific activity (e.g., reading, training, meditating)?
+Does your character have peculiar eating habits (e.g., picky eater, eats unusual items, always eating)?
+Does your character have a characteristic personality?
+Is your character generally outgoing, social, or extroverted?
+Is your character generally shy, introverted, or reserved?
+Is your character typically aggressive, confrontational, or easily angered?
+Is your character typically calm, stoic, or peaceful?
+Is your character generally optimistic, cheerful, or hopeful?
+Is your character generally pessimistic, gloomy, or cynical?
+Is your character courageous, daring, or fearless?
+Is your character timid, fearful, or hesitant?
+Is your character curious, inquisitive, or eager to learn?
+Is your character impulsive, spontaneous, or reckless?
+Is your character logical, analytical, or strategic?
+Is your character empathetic, compassionate, or kind?
+Is your character selfish, arrogant, or self-centered?
+Is your character humorous, playful, or a trickster?
+Is your character serious, solemn, or dutiful?
+Is your character loyal, trustworthy, or reliable?
+Is your character manipulative, deceitful, or treacherous?
+Is your character prone to specific recurring emotional states (e.g., anxious, overly confident, dramatic)?
+Is your character primarily driven by a clear objective?
+Is your character's primary motivation to seek vengeance?
+Is your character motivated to protect someone or something?
+Is your character's main goal striving for power, knowledge, or personal gain?
+Is your character driven by duty, honor, or a specific creed?
+Is your character's primary motivation seeking redemption or forgiveness?
+Does your character have a primary goal related to justice or order?
+Is your character's primary goal fighting for justice or to right wrongs?
+Is your character's primary goal working to maintain or restore order?
+Is your character's primary goal aiming to cause chaos or disruption?
+Is your character driven by a desire for discovery or exploration?
+Is your character's primary motivation exploring new places or realms?
+Is your character's primary motivation uncovering hidden truths or secrets?
+Is your character's motivation tied to a specific relationship or group?
+Is your character's main goal tied to family or loved ones?
+Is your character's primary goal striving for the success or well-being of a group or community?
+Does your character have a simple or mundane motivation?
+Is your character primarily driven by basic needs (e.g., food, shelter, comfort)?
+Is your character's primary goal seeking leisure or entertainment?
+Is your character's main goal simply to survive?
+Does your character have a significant origin story or defining past event in their backstory?
+Does your character's origin involve their birth or creation?
+Are your character's current abilities or form part of their birth origin?
+Does your character's origin involve being created, built, or brought to life through artificial means (e.g., a robot, a homunculus)?
+Does your character's backstory include a transformative event or accident that shaped them?
+Has a specific traumatic event or accident transformed your character's origin or abilities?
+Has a magical or supernatural event altered your character's origin or powers?
+Is your character's transformation in their backstory due to a scientific experiment?
+Does your character's backstory involve a tragic or difficult past?
+Has your character experienced a significant loss or betrayal in their past backstory?
+Has your character overcome a major adversity or oppression in their past backstory?
+Does your character have a mysterious or unknown origin story?
+Is your character's exact origin unknown even to themselves in their backstory?
+Is your character's origin deliberately hidden or shrouded in mystery in their backstory?
+Does your character's origin involve being from another time or dimension?
+Is your character a time traveler from the past or future as part of their origin?
+Is your character from an alternate dimension or reality as part of their origin?
+Does your character's life status indicate they are currently alive?
+Is your character living in a typical biological sense?
+Is your character physically alive but in an altered state (e.g., comatose, transformed)?
+Does your character's existence involve being deceased or undead?
+Is your character a zombie, ghoul, or other reanimated corpse in their existence?
+Is your character a vampire or other blood-drinking undead in their existence?
+Is your character a ghost, spirit, or other non-corporeal undead in their existence?
+Does your character's existence primarily involve being an artificial construct?
+Is your character a golem, doll, or inanimate object brought to life in their existence?
+Is your character a magical construct or automaton in their existence?
+Does your character's existence involve a unique or unusual state of being?
+Is your character a dream being, illusion, or purely conceptual existence?
+Is your character a being of pure energy or elemental force in their existence?
+Is your character trapped in a unique dimensional or temporal state of existence?
+Is your character's unique existence unidentifiable or irrelevant?
+Does your character have any physical disabilities or significant impairments as a physical limitation?
+Does your character have a visual impairment (e.g., blind, severely near-sighted)?
+Does your character have a hearing impairment (e.g., deaf, hard of hearing)?
+Does your character have a missing limb or a limb that does not function normally?
+Does your character have a mobility impairment (e.g., uses a wheelchair, difficulty walking)?
+Does your character have a chronic illness or condition?
+Does your character possess any artificial body parts or cybernetic enhancements?
+Does your character have cybernetic limbs or prosthetics?
+Does your character have internal cybernetic enhancements or implants?
+Does your character possess unusual biological functions or physical enhancements?
+Can your character breathe underwater or in environments without air?
+Can your character photosynthesize or derive energy from unusual sources?
+Can your character regenerate quickly from injuries?
+Does your character have enhanced senses (e.g., super sight, super hearing, heightened smell)?
+Does your character have an unusual lifespan or physical endurance?
+Is your character immortal or cannot die from natural causes?
+Is your character exceptionally long-lived (e.g., lives for centuries or millennia)?
+Is your character capable of extreme physical endurance or resilience?
+Does your character have any specific physical vulnerabilities as a limitation?
+Is your character allergic to a common substance (e.g., specific material, food)?
+Is your character susceptible to a specific type of magic or energy?
+Does your character have a specific weakness that could lead to their defeat?
+Does your character have a central narrative role or importance?
+Is your character a protagonist or the primary main character of their story?
+Is your character an antagonist or the primary villain in their story?
+Is your character a significant supporting character with a major impact on the narrative of their story?
+Does your character serve a specific narrative function or supporting role?
+Is your character a mentor, guide, or teacher figure in the narrative of their story?
+Is your character a loyal sidekick or companion to a main character in their story?
+Is your character primarily a comic relief character in the narrative of their story?
+Is your character a plot device or a character who exists mainly to advance the story?
+Is your character a minor or background character in a narrative?
+Is your character a recurring minor character in the narrative of their story?
+Is your character a one-time appearance or background character in the narrative of their story?
+Does your character primarily travel on foot as their main mode of movement?
+Does your character run at exceptionally high speeds as part of their movement?
+Does your character climb or scale surfaces as a primary mode of movement?
+Does your character burrow or dig as a primary mode of movement?
+Does your character have an unusual or distinctive gait or walking style for their movement?
+Does your character typically use a specific type of vehicle for travel?
+Does your character use a land-based vehicle (e.g., car, bike, tank, train) for travel?
+Does your character use an air-based vehicle (e.g., plane, helicopter, personal flying device) for travel?
+Does your character use a water-based vehicle (e.g., boat, submarine) for travel?
+Does your character use a space-based vehicle or spacecraft for travel?
+Does your character use a magical or fantastical vehicle for travel?
+Does your character primarily move by flying or levitating?
+Does your character fly using wings or biological means for their movement?
+Does your character fly or levitate using magical or supernatural powers for their movement?
+Does your character use technology or equipment to fly or levitate for their movement?
+Does your character use teleportation or other magical/supernatural means of movement for travel?
+Can your character teleport short or long distances as a form of movement?
+Can your character use portals or dimensional travel as a means of movement?
+Can your character possess or shift between bodies for movement?
+Can your character use other magical or supernatural means of movement?
+Is your character in peak physical condition or exceptionally healthy?
+Does your character possess remarkable stamina or endurance as part of their physical condition?
+Does your character rarely get sick or fall ill?
+Is your character often ill, sickly, or suffering from poor health?
+Does your character frequently experience illness or disease?
+Is your character generally frail or weak due to poor health?
+Is your character frequently injured or recovering from wounds?
+Does your character often sustain injuries in their activities?
+Is your character currently recovering from a significant wound or injury?
+Does your character have a chronic or ongoing medical condition that affects their daily life?
+Does your character require regular medication or treatment for their condition?
+Does their condition impose significant limitations on their activities?
+Is your character's physical condition or health generally deteriorating?
+Is your character aging rapidly or unnaturally?
+Is your character suffering from a progressing illness or decay?
+Does your character's owner have a significant presence on Video or Live-Streaming Platforms?
+Does your character's owner use YouTube?
+Does your character's owner create informational or educational videos on YouTube?
+Does your character's owner create entertainment videos (e.g., skits, vlogs, reactions) on YouTube?
+Does your character's owner stream live content (e.g., art, gaming, Q&A) on YouTube?
+Does your character's owner use Twitch?
+Does your character's owner stream gaming content on Twitch?
+Does your character's owner stream art creation processes on Twitch?
+Does your character's owner stream Q&A sessions or discussions on Twitch?
+Does your character's owner use TikTok (for short-form video content)?
+Does your character's owner stream gaming content on TikTok?
+Does your character's owner stream art creation processes on Tiktok?
+Does your character's owner stream Q&A sessions or discussions on TikTok?
+Does your character's owner use PicartoTV?
+Does your character's owner stream gaming content on PicartoTV?
+Does your character's owner stream art creation processes on PicartoTV?
+Does your character's owner stream Q&A sessions or discussions on PicartoTV?
+Does your character's owner have a significant presence on Image or Art-Sharing Platforms?
+Does your character's owner have a FurAffinity presence?
+Does your character's owner have a DeviantArt presence?
+Does your character's owner have an ArtStation presence?
+Does your character's owner have an Instagram presence?
+Does your character's owner have a Tumblr presence?
+Does your character's owner have a Pixiv presence?
+Does your character's owner have an Inkbunny presence?
+Does your character's owner have a Newgrounds presence?
+Does your character's owner have a significant presence on Microblogging or General Social Media Platforms?
+Does your character's owner have a Twitter (now X) presence?
+Does your character's owner have a Mastodon presence?
+Does your character's owner have a Bluesky presence?
+Does your character's owner have a Cohost presence?
+Does your character's owner have a Threads presence?
+Does your character's owner have a Facebook presence (e.g., for pages/groups)?
+Does your character's owner have a significant presence on Instant Messaging or Community Chat Platforms?
+Does your character's owner have a Telegram presence?
+Does your character's owner have a Discord presence?
+Does your character's owner have a Matrix presence?
+Does your character's owner have a Guilded presence?
+Does your character's owner have a Revolt presence?
+Does your character's owner have a Signal presence?
+Does your character's owner have a significant presence on Written Content Platforms?
+Does your character's owner have an Archive of Our Own (AO3) presence?
+Does your character's owner have a fanfiction-specific site presence (e.g., FanFiction.net, Wattpad)?
+Does your character's owner have a significant presence related to Music or Audio Content Platforms?
+Does your character's owner have a SoundCloud presence?
+Does your character's owner have a Bandcamp presence?
+Does your character's owner have a Spotify?
+Does your character's owner have a significant presence on platforms for showcasing Crafted Items / Merchandise?
+Does your character's owner have a Dealer's Den presence?
+Does your character's owner have an Etsy presence?
+Does your character's owner maintain a personal blog or general website?
+Does your character's owner maintain use a professional portfolio site?
+Is your character primarily involved in content creation within the fandom?
+Is your character's owner primarily an artist (e.g., drawing, painting, digital art)?
+Is your character's owner primarily a writer (e.g., stories, fanfiction, roleplay)?
+Is your character's owner primarily a fursuit maker or cosplayer?
+Is your character's owner primarily a musician or audio creator?
+Is your character's owner primarily an animator or video creator?
+Is your character primarily a content consumer/viewer within the fandom?
+Does your character's owner primarily enjoy visual art?
+Does your character's owner primarily enjoy written stories or roleplay?
+Does your character's owner primarily enjoy music or audio content?
+Does your character's owner primarily enjoy videos or streams?
+Does your character regularly attend furry conventions?
+Does your character's owner frequently attend major international conventions?
+Does your character's owner primarily attend local or regional conventions?
+Does your character's owner attend conventions as a panelist or presenter?
+Does your character's owner attend conventions as a dealer or vendor?
+Does your character's owner attend conventions as a regular attendee/participant?
+Is your character involved in organizing, volunteering, or leadership roles at furry events or meetups?
+Does your character's owner organize large-scale furry conventions or events?
+Does your character's owner organize local furry meetups or small gatherings?
+Does your character's owner volunteer their time at fandom events?
+Does your character's owner hold a leadership position in a fandom organization or community?
+Is your character a prominent figure or well-known personality within the furry fandom?
+Is your character's owner widely recognized across various platforms or communities?
+Is your character's owner well-known within a specific niche of the fandom (e.g., art, music, streaming)?
+Is your character's owner known for their positive contributions or influence in the fandom?
+Does your character participate in charity efforts or community initiatives within the furry fandom?
+Does your character's owner frequently contribute to or organize charity events?
+Does your character's owner promote positive values or initiatives within the fandom?
+Is your character part of a specific local furry community or group, or actively participates in online discussions?
+Does your character's owner actively participate in a specific local furry meet-up group?
+Is your character's owner a member of a specific online furry community group or forum?
+Does your character actively participate in online furry discussions (e.g., social media, chat groups)?
+Does your character own or regularly wear a fursuit?
+Does your character primarily wear full fursuits?
+Does your character primarily wear partial fursuits?
+Does your character wear more than one fursuit?
+Is your character known for their fursuit performing or dancing?
+Does your character participate in fursuit dance competitions?
+Does your character create videos or perform in fursuit regularly?
+Is your character known for a specific fursuit character persona during performances?
+Does your character march in fursuit parades at conventions?
+Does your character make public appearances in fursuit for events or charity?
+Does your character's owner primarily reside in North America?
+Does your character's owner primarily reside in the United States?
+Does your character's owner primarily reside in North America?
+Does your character's owner primarily reside in the United States?
+Does your character's owner primarily reside in Alabama (U.S.A.)?
+Does your character's owner primarily reside in Montgomery (AL, U.S.A.)?
+Does your character's owner primarily reside in Alaska (U.S.A.)?
+Does your character's owner primarily reside in Juneau (AK, U.S.A.)?
+Does your character's owner primarily reside in Arizona (U.S.A.)?
+Does your character's owner primarily reside in Phoenix (AZ, U.S.A.)?
+Does your character's owner primarily reside in Arkansas (U.S.A.)?
+Does your character's owner primarily reside in Little Rock (AR, U.S.A.)?
+Does your character's owner primarily reside in California (U.S.A.)?
+Does your character's owner primarily reside in Sacramento (CA, U.S.A.)?
+Does your character's owner primarily reside in Los Angeles (CA, U.S.A.)?
+Does your character's owner primarily reside in San Francisco (CA, U.S.A.)?
+Does your character's owner primarily reside in San Jose (CA, U.S.A.)?
+Does your character's owner primarily reside in San Diego (CA, U.S.A.)?
+Does your character's owner primarily reside in Colorado (U.S.A.)?
+Does your character's owner primarily reside in Denver (CO, U.S.A.)?
+Does your character's owner primarily reside in Connecticut (U.S.A.)?
+Does your character's owner primarily reside in Hartford (CT, U.S.A.)?
+Does your character's owner primarily reside in Delaware (U.S.A.)?
+Does your character's owner primarily reside in Dover (DE, U.S.A.)?
+Does your character's owner primarily reside in Florida (U.S.A.)?
+Does your character's owner primarily reside in Tallahassee (FL, U.S.A.)?
+Does your character's owner primarily reside in Orlando (FL, U.S.A.)?
+Does your character's owner primarily reside in Miami (FL, U.S.A.)?
+Does your character's owner primarily reside in Tampa (FL, U.S.A.)?
+Does your character's owner primarily reside in Georgia (U.S.A.)?
+Does your character's owner primarily reside in Atlanta (GA, U.S.A.)?
+Does your character's owner primarily reside in Hawaii (U.S.A.)?
+Does your character's owner primarily reside in Honolulu (HI, U.S.A.)?
+Does your character's owner primarily reside in Idaho (U.S.A.)?
+Does your character's owner primarily reside in Boise (ID, U.S.A.)?
+Does your character's owner primarily reside in Illinois (U.S.A.)?
+Does your character's owner primarily reside in Springfield (IL, U.S.A.)?
+Does your character's owner primarily reside in Chicago (IL, U.S.A.)?
+Does your character's owner primarily reside in Indiana (U.S.A.)?
+Does your character's owner primarily reside in Indianapolis (IN, U.S.A.)?
+Does your character's owner primarily reside in Iowa (U.S.A.)?
+Does your character's owner primarily reside in Des Moines (IA, U.S.A.)?
+Does your character's owner primarily reside in Kansas (U.S.A.)?
+Does your character's owner primarily reside in Topeka (KS, U.S.A.)?
+Does your character's owner primarily reside in Kentucky (U.S.A.)?
+Does your character's owner primarily reside in Frankfort (KY, U.S.A.)?
+Does your character's owner primarily reside in Louisiana (U.S.A.)?
+Does your character's owner primarily reside in Baton Rouge (LA, U.S.A.)?
+Does your character's owner primarily reside in Maine (U.S.A.)?
+Does your character's owner primarily reside in Augusta (ME, U.S.A.)?
+Does your character's owner primarily reside in Maryland (U.S.A.)?
+Does your character's owner primarily reside in Annapolis (MD, U.S.A.)?
+Does your character's owner primarily reside in Massachusetts (U.S.A.)?
+Does your character's owner primarily reside in Boston (MA, U.S.A.)?
+Does your character's owner primarily reside in Michigan (U.S.A.)?
+Does your character's owner primarily reside in Lansing (MI, U.S.A.)?
+Does your character's owner primarily reside in Detroit (MI, U.S.A.)?
+Does your character's owner primarily reside in Minnesota (U.S.A.)?
+Does your character's owner primarily reside in St. Paul (MN, U.S.A.)?
+Does your character's owner primarily reside in Mississippi (U.S.A.)?
+Does your character's owner primarily reside in Jackson (MS, U.S.A.)?
+Does your character's owner primarily reside in Missouri (U.S.A.)?
+Does your character's owner primarily reside in Jefferson City (MO, U.S.A.)?
+Does your character's owner primarily reside in Montana (U.S.A.)?
+Does your character's owner primarily reside in Helena (MT, U.S.A.)?
+Does your character's owner primarily reside in Nebraska (U.S.A.)?
+Does your character's owner primarily reside in Lincoln (NE, U.S.A.)?
+Does your character's owner primarily reside in Nevada (U.S.A.)?
+Does your character's owner primarily reside in Carson City (NV, U.S.A.)?
+Does your character's owner primarily reside in New Hampshire (U.S.A.)?
+Does your character's owner primarily reside in Concord (NH, U.S.A.)?
+Does your character's owner primarily reside in New Jersey (U.S.A.)?
+Does your character's owner primarily reside in Trenton (NJ, U.S.A.)?
+Does your character's owner primarily reside in New Mexico (U.S.A.)?
+Does your character's owner primarily reside in Santa Fe (NM, U.S.A.)?
+Does your character's owner primarily reside in New York (U.S.A.)?
+Does your character's owner primarily reside in Albany (NY, U.S.A.)?
+Does your character's owner primarily reside in New York City (NY, U.S.A.)?
+Does your character's owner primarily reside in North Carolina (U.S.A.)?
+Does your character's owner primarily reside in Raleigh (NC, U.S.A.)?
+Does your character's owner primarily reside in Charlotte (NC, U.S.A.)?
+Does your character's owner primarily reside in North Dakota (U.S.A.)?
+Does your character's owner primarily reside in Bismarck (ND, U.S.A.)?
+Does your character's owner primarily reside in Ohio (U.S.A.)?
+Does your character's owner primarily reside in Columbus (OH, U.S.A.)?
+Does your character's owner primarily reside in Cleveland (OH, U.S.A.)?
+Does your character's owner primarily reside in Cincinnati (OH, U.S.A.)?
+Does your character's owner primarily reside in Oklahoma (U.S.A.)?
+Does your character's owner primarily reside in Oklahoma City (OK, U.S.A.)?
+Does your character's owner primarily reside in Oregon (U.S.A.)?
+Does your character's owner primarily reside in Salem (OR, U.S.A.)?
+Does your character's owner primarily reside in Pennsylvania (U.S.A.)?
+Does your character's owner primarily reside in Harrisburg (PA, U.S.A.)?
+Does your character's owner primarily reside in Philadelphia (PA, U.S.A.)?
+Does your character's owner primarily reside in Pittsburgh (PA, U.S.A.)?
+Does your character's owner primarily reside in Rhode Island (U.S.A.)?
+Does your character's owner primarily reside in Providence (RI, U.S.A.)?
+Does your character's owner primarily reside in South Carolina (U.S.A.)?
+Does your character's owner primarily reside in Columbia (SC, U.S.A.)?
+Does your character's owner primarily reside in South Dakota (U.S.A.)?
+Does your character's owner primarily reside in Pierre (SD, U.S.A.)?
+Does your character's owner primarily reside in Tennessee (U.S.A.)?
+Does your character's owner primarily reside in Nashville (TN, U.S.A.)?
+Does your character's owner primarily reside in Texas (U.S.A.)?
+Does your character's owner primarily reside in Austin (TX, U.S.A.)?
+Does your character's owner primarily reside in Houston (TX, U.S.A.)?
+Does your character's owner primarily reside in Dallas (TX, U.S.A.)?
+Does your character's owner primarily reside in San Antonio (TX, U.S.A.)?
+Does your character's owner primarily reside in Utah (U.S.A.)?
+Does your character's owner primarily reside in Salt Lake City (UT, U.S.A.)?
+Does your character's owner primarily reside in Vermont (U.S.A.)?
+Does your character's owner primarily reside in Montpelier (VT, U.S.A.)?
+Does your character's owner primarily reside in Virginia (U.S.A.)?
+Does your character's owner primarily reside in Richmond (VA, U.S.A.)?
+Does your character's owner primarily reside in Norfolk (VA, U.S.A.)?
+Does your character's owner primarily reside in Virginia Beach (VA, U.S.A.)?
+Does your character's owner primarily reside in Washington (U.S.A.)?
+Does your character's owner primarily reside in Olympia (WA, U.S.A.)?
+Does your character's owner primarily reside in Seattle (WA, U.S.A.)?
+Does your character's owner primarily reside in West Virginia (U.S.A.)?
+Does your character's owner primarily reside in Charleston (WV, U.S.A.)?
+Does your character's owner primarily reside in Wisconsin (U.S.A.)?
+Does your character's owner primarily reside in Madison (WI, U.S.A.)?
+Does your character's owner primarily reside in Wyoming (U.S.A.)?
+Does your character's owner primarily reside in Cheyenne (WY, U.S.A.)?
+Does your character's owner primarily reside in Washington D.C.?
+Does your character's owner primarily reside in Canada?
+Does your character's owner primarily reside in Alberta (Canada)?
+Does your character's owner primarily reside in British Columbia (Canada)?
+Does your character's owner primarily reside in Manitoba (Canada)?
+Does your character's owner primarily reside in New Brunswick (Canada)?
+Does your character's owner primarily reside in Newfoundland and Labrador (Canada)?
+Does your character's owner primarily reside in Nova Scotia (Canada)?
+Does your character's owner primarily reside in Ontario (Canada)?
+Does your character's owner primarily reside in Prince Edward Island (Canada)?
+Does your character's owner primarily reside in Quebec (Canada)?
+Does your character's owner primarily reside in Saskatchewan (Canada)?
+Does your character's owner primarily reside in Northwest Territories (Canada)?
+Does your character's owner primarily reside in Nunavut (Canada)?
+Does your character's owner primarily reside in Yukon (Canada)?
+Does your character's owner primarily reside in Mexico?
+Does your character's owner primarily reside in Europe?
+Does your character's owner primarily reside in Albania?
+Does your character's owner primarily reside in Andorra?
+Does your character's owner primarily reside in Austria?
+Does your character's owner primarily reside in Belarus?
+Does your character's owner primarily reside in Belgium?
+Does your character's owner primarily reside in Bosnia and Herzegovina?
+Does your character's owner primarily reside in Bulgaria?
+Does your character's owner primarily reside in Croatia?
+Does your character's owner primarily reside in Cyprus?
+Does your character's owner primarily reside in Czechia??
+Does your character's owner primarily reside in Denmark?
+Does your character's owner primarily reside in Estonia?
+Does your character's owner primarily reside in Finland?
+Does your character's owner primarily reside in France?
+Does your character's owner primarily reside in Georgia (Asia/Europe)?
+Does your character's owner primarily reside in Germany?
+Does your character's owner primarily reside in Greece?
+Does your character's owner primarily reside in Hungary?
+Does your character's owner primarily reside in Iceland?
+Does your character's owner primarily reside in Ireland?
+Does your character's owner primarily reside in Italy?
+Does your character's owner primarily reside in Kosovo?
+Does your character's owner primarily reside in Latvia?
+Does your character's owner primarily reside in Liechtenstein?
+Does your character's owner primarily reside in Lithuania?
+Does your character's owner primarily reside in Luxembourg?
+Does your character's owner primarily reside in Malta?
+Does your character's owner primarily reside in Moldova?
+Does your character's owner primarily reside in Monaco?
+Does your character's owner primarily reside in Montenegro?
+Does your character's owner primarily reside in the Netherlands?
+Does your character's owner primarily reside in North Macedonia?
+Does your character's owner primarily reside in Norway?
+Does your character's owner primarily reside in Poland?
+Does your character's owner primarily reside in Portugal?
+Does your character's owner primarily reside in Romania?
+Does your character's owner primarily reside in Russia?
+Does your character's owner primarily reside in San Marino?
+Does your character's owner primarily reside in Serbia?
+Does your character's owner primarily reside in Slovakia?
+Does your character's owner primarily reside in Slovenia?
+Does your character's owner primarily reside in Spain?
+Does your character's owner primarily reside in Sweden?
+Does your character's owner primarily reside in Switzerland?
+Does your character's owner primarily reside in Turkey?
+Does your character's owner primarily reside in Ukraine?
+Does your character's owner primarily reside in the United Kingdom?
+Does your character's owner primarily reside in England?
+Does your character's owner primarily reside in London (England, U.K.)?
+Does your character's owner primarily reside in Birmingham (England, U.K.)?
+Does your character's owner primarily reside in Manchester (England, U.K.)?
+Does your character's owner primarily reside in Leeds (England, U.K.)?
+Does your character's owner primarily reside in Bristol (England, U.K.)?
+Does your character's owner primarily reside in Liverpool (England, U.K.)?
+Does your character's owner primarily reside in Sheffield (England, U.K.)?
+Does your character's owner primarily reside in Leicester (England, U.K.)?
+Does your character's owner primarily reside in Coventry (England, U.K.)?
+Does your character's owner primarily reside in Bradford (England, U.K.)?
+Does your character's owner primarily reside in Nottingham (England, U.K.)?
+Does your character's owner primarily reside in Newcastle upon Tyne (England, U.K.)?
+Does your character's owner primarily reside in Southampton (England, U.K.)?
+Does your character's owner primarily reside in Portsmouth (England, U.K.)?
+Does your character's owner primarily reside in Scotland?
+Does your character's owner primarily reside in Wales?
+Does your character's owner primarily reside in Northern Ireland?
+Does your character's owner primarily reside in Vatican City?
+Does your character's owner primarily reside in Asia?
+Does your character's owner primarily reside in Afghanistan?
+Does your character's owner primarily reside in Armenia?
+Does your character's owner primarily reside in Azerbaijan?
+Does your character's owner primarily reside in Bahrain?
+Does your character's owner primarily reside in Bangladesh?
+Does your character's owner primarily reside in Bhutan?
+Does your character's owner primarily reside in Brunei?
+Does your character's owner primarily reside in Cambodia?
+Does your character's owner primarily reside in China?
+Does your character's owner primarily reside in East Timor?
+Does your character's owner primarily reside in Georgia (Asia/Europe)?
+Does your character's owner primarily reside in India?
+Does your character's owner primarily reside in Indonesia?
+Does your character's owner primarily reside in Iran?
+Does your character's owner primarily reside in Iraq?
+Does your character's owner primarily reside in Israel?
+Does your character's owner primarily reside in Japan?
+Does your character's owner primarily reside in Hokkaido (Japan)?
+Does your character's owner primarily reside in Aomori (Japan)?
+Does your character's owner primarily reside in Iwate (Japan)?
+Does your character's owner primarily reside in Miyagi (Japan)?
+Does your character's owner primarily reside in Akita (Japan)?
+Does your character's owner primarily reside in Yamagata (Japan)?
+Does your character's owner primarily reside in Fukushima (Japan)?
+Does your character's owner primarily reside in Ibaraki (Japan)?
+Does your character's owner primarily reside in Tochigi (Japan)?
+Does your character's owner primarily reside in Gunma (Japan)?
+Does your character's owner primarily reside in Saitama (Japan)?
+Does your character's owner primarily reside in Chiba (Japan)?
+Does your character's owner primarily reside in Tokyo (Japan)?
+Does your character's owner primarily reside in Kanagawa (Japan)?
+Does your character's owner primarily reside in Niigata (Japan)?
+Does your character's owner primarily reside in Toyama (Japan)?
+Does your character's owner primarily reside in Ishikawa (Japan)?
+Does your character's owner primarily reside in Fukui (Japan)?
+Does your character's owner primarily reside in Yamanashi (Japan)?
+Does your character's owner primarily reside in Nagano (Japan)?
+Does your character's owner primarily reside in Gifu (Japan)?
+Does your character's owner primarily reside in Shizuoka (Japan)?
+Does your character's owner primarily reside in Aichi (Japan)?
+Does your character's owner primarily reside in Mie (Japan)?
+Does your character's owner primarily reside in Shiga (Japan)?
+Does your character's owner primarily reside in Kyoto (Japan)?
+Does your character's owner primarily reside in Osaka (Japan)?
+Does your character's owner primarily reside in Hyogo (Japan)?
+Does your character's owner primarily reside in Nara (Japan)?
+Does your character's owner primarily reside in Wakayama (Japan)?
+Does your character's owner primarily reside in Tottori (Japan)?
+Does your character's owner primarily reside in Shimane (Japan)?
+Does your character's owner primarily reside in Okayama (Japan)?
+Does your character's owner primarily reside in Hiroshima (Japan)?
+Does your character's owner primarily reside in Yamaguchi (Japan)?
+Does your character's owner primarily reside in Tokushima (Japan)?
+Does your character's owner primarily reside in Kagawa (Japan)?
+Does your character's owner primarily reside in Ehime (Japan)?
+Does your character's owner primarily reside in Kochi (Japan)?
+Does your character's owner primarily reside in Fukuoka (Japan)?
+Does your character's owner primarily reside in Saga (Japan)?
+Does your character's owner primarily reside in Nagasaki (Japan)?
+Does your character's owner primarily reside in Kumamoto (Japan)?
+Does your character's owner primarily reside in Oita (Japan)?
+Does your character's owner primarily reside in Miyazaki (Japan)?
+Does your character's owner primarily reside in Kagoshima (Japan)?
+Does your character's owner primarily reside in Okinawa (Japan)?
+Does your character's owner primarily reside in Jordan?
+Does your character's owner primarily reside in Kazakhstan?
+Does your character's owner primarily reside in Kuwait?
+Does your character's owner primarily reside in Kyrgyzstan?
+Does your character's owner primarily reside in Laos?
+Does your character's owner primarily reside in Lebanon?
+Does your character's owner primarily reside in Malaysia?
+Does your character's owner primarily reside in Maldives?
+Does your character's owner primarily reside in Mongolia?
+Does your character's owner primarily reside in Myanmar?
+Does your character's owner primarily reside in Nepal?
+Does your character's owner primarily reside in North Korea?
+Does your character's owner primarily reside in Oman?
+Does your character's owner primarily reside in Pakistan?
+Does your character's owner primarily reside in Palestine?
+Does your character's owner primarily reside in the Philippines?
+Does your character's owner primarily reside in Qatar?
+Does your character's owner primarily reside in Saudi Arabia?
+Does your character's owner primarily reside in Singapore?
+Does your character's owner primarily reside in South Korea?
+Does your character's owner primarily reside in Sri Lanka?
+Does your character's owner primarily reside in Syria?
+Does your character's owner primarily reside in Taiwan?
+Does your character's owner primarily reside in Tajikistan?
+Does your character's owner primarily reside in Thailand?
+Does your character's owner primarily reside in Turkmenistan?
+Does your character's owner primarily reside in United Arab Emirates?
+Does your character's owner primarily reside in Uzbekistan?
+Does your character's owner primarily reside in Vietnam?
+Does your character's owner primarily reside in Yemen?
+Does your character's owner primarily reside in South America?
+Does your character's owner primarily reside in Argentina?
+Does your character's owner primarily reside in Bolivia?
+Does your character's owner primarily reside in Brazil?
+Does your character's owner primarily reside in Chile?
+Does your character's owner primarily reside in Colombia?
+Does your character's owner primarily reside in Ecuador?
+Does your character's owner primarily reside in Guyana?
+Does your character's owner primarily reside in Paraguay?
+Does your character's owner primarily reside in Peru?
+Does your character's owner primarily reside in Suriname?
+Does your character's owner primarily reside in Uruguay?
+Does your character's owner primarily reside in Venezuela?
+Does your character's owner primarily reside in Central America?
+Does your character's owner primarily reside in Belize?
+Does your character's owner primarily reside in Costa Rica?
+Does your character's owner primarily reside in El Salvador?
+Does your character's owner primarily reside in Guatemala?
+Does your character's owner primarily reside in Honduras?
+Does your character's owner primarily reside in Nicaragua?
+Does your character's owner primarily reside in Panama?
+Does your character's owner primarily reside in Oceania?
+Does your character's owner primarily reside in Australia?
+Does your character's owner primarily reside in New South Wales (Australia)?
+Does your character's owner primarily reside in Sydney (NSW, Australia)?
+Does your character's owner primarily reside in Victoria (Australia)?
+Does your character's owner primarily reside in Melbourne (VIC, Australia)?
+Does your character's owner primarily reside in Queensland (Australia)?
+Does your character's owner primarily reside in Brisbane (QLD, Australia)?
+Does your character's owner primarily reside in Gold Coast (QLD, Australia)?
+Does your character's owner primarily reside in Cairns (QLD, Australia)?
+Does your character's owner primarily reside in South Australia (Australia)?
+Does your character's owner primarily reside in Adelaide (SA, Australia)?
+Does your character's owner primarily reside in Western Australia (Australia)?
+Does your character's owner primarily reside in Perth (WA, Australia)?
+Does your character's owner primarily reside in Tasmania (Australia)?
+Does your character's owner primarily reside in Hobart (TAS, Australia)?
+Does your character's owner primarily reside in the Australian Capital Territory (Australia)?
+Does your character's owner primarily reside in Canberra (ACT, Australia)?
+Does your character's owner primarily reside in the Northern Territory (Australia)?
+Does your character's owner primarily reside in Darwin (NT, Australia)?
+Does your character's owner primarily reside in Fiji?
+Does your character's owner primarily reside in Kiribati?
+Does your character's owner primarily reside in the Marshall Islands?
+Does your character's owner primarily reside in Micronesia?
+Does your character's owner primarily reside in Nauru?
+Does your character's owner primarily reside in New Zealand?
+Does your character's owner primarily reside in Palau?
+Does your character's owner primarily reside in Papua New Guinea?
+Does your character's owner primarily reside in Samoa?
+Does your character's owner primarily reside in the Solomon Islands?
+Does your character's owner primarily reside in Tonga?
+Does your character's owner primarily reside in Tuvalu?
+Does your character's owner primarily reside in Vanuatu?
+Does your character's owner primarily reside in Africa?
+Does your character's owner primarily reside in Algeria?
+Does your character's owner primarily reside in Angola?
+Does your character's owner primarily reside in Benin?
+Does your character's owner primarily reside in Botswana?
+Does your character's owner primarily reside in Burkina Faso?
+Does your character's owner primarily reside in Burundi?
+Does your character's owner primarily reside in Cabo Verde?
+Does your character's owner primarily reside in Cameroon?
+Does your character's owner primarily reside in Central African Republic?
+Does your character's owner primarily reside in Chad?
+Does your character's owner primarily reside in Comoros?
+Does your character's owner primarily reside in the Democratic Republic of Congo (DRC)?
+Does your character's owner primarily reside in the Republic of Congo (Brazzaville)?
+Does your character's owner primarily reside in Côte d'Ivoire?
+Does your character's owner primarily reside in Djibouti?
+Does your character's owner primarily reside in Egypt?
+Does your character's owner primarily reside in Equatorial Guinea?
+Does your character's owner primarily reside in Eritrea?
+Does your character's owner primarily reside in Eswatini?
+Does your character's owner primarily reside in Ethiopia?
+Does your character's owner primarily reside in Gabon?
+Does your character's owner primarily reside in Gambia?
+Does your character's owner primarily reside in Ghana?
+Does your character's owner primarily reside in Guinea?
+Does your character's owner primarily reside in Guinea-Bissau?
+Does your character's owner primarily reside in Kenya?
+Does your character's owner primarily reside in Lesotho?
+Does your character's owner primarily reside in Liberia?
+Does your character's owner primarily reside in Libya?
+Does your character's owner primarily reside in Madagascar?
+Does your character's owner primarily reside in Malawi?
+Does your character's owner primarily reside in Mali?
+Does your character's owner primarily reside in Mauritania?
+Does your character's owner primarily reside in Mauritius?
+Does your character's owner primarily reside in Morocco?
+Does your character's owner primarily reside in Mozambique?
+Does your character's owner primarily reside in Namibia?
+Does your character's owner primarily reside in Niger?
+Does your character's owner primarily reside in Nigeria?
+Does your character's owner primarily reside in Rwanda?
+Does your character's owner primarily reside in Sao Tome and Principe?
+Does your character's owner primarily reside in Senegal?
+Does your character's owner primarily reside in Seychelles?
+Does your character's owner primarily reside in Sierra Leone?
+Does your character's owner primarily reside in Somalia?
+Does your character's owner primarily reside in South Africa?
+Does your character's owner primarily reside in South Sudan?
+Does your character's owner primarily reside in Sudan?
+Does your character's owner primarily reside in Tanzania?
+Does your character's owner primarily reside in Togo?
+Does your character's owner primarily reside in Tunisia?
+Does your character's owner primarily reside in Uganda?
+Does your character's owner primarily reside in Zambia?
+Does your character's owner primarily reside in Zimbabwe?
+Is your character's content primarily focused on sexual or fetish interests?
+Does your character's content involve themes of size or transformation?
+Is your character's content focused on Vore (ingestion, digestion, or related themes)?
+Is your character's content focused on Inflation, Expansion, or Bloating (of body parts or the entire body)?
+Is your character's content focused on Muscle or Fat growth/appreciation?
+Is your character's content focused on Hyper (oversized body parts)?
+Is your character's content focused on Species Change Transformation (TF)?
+Is your character's content focused on Age Transformation?
+Is your character's content focused on Extreme Body Modification Transformation (e.g., adding or removing limbs, drastic skeletal changes, multiple heads)?
+Is your character's content focused on Material or Texture changes Transformation (e.g., turning into stone, slime, rubber, or inanimate objects)?
+Does your character's content involve Power Dynamics, Control, or Specific Social Roles?
+Is your character's content focused on Dominance, Submission, or BDSM themes?
+Is your character's content focused on Bondage, Restraint, or Captivity?
+Is your character's content focused on Master/Pet dynamics?
+Is your character's content focused on excretions/waste, or containment of related substances?
+Is it focused on diapers or ABDL (Adult Baby Diaper Lover) themes?
+Is your character's content focused on scat or feces?
+Is your character's content focused on urine or watersports?
+Is your character's content focused on bodily gases?
+Is your character's content focused on farts or flatulence?
+Is your character's content focused on burps or belching?
+Is your character's content focused on bodily secretions or other fluids?
+Is your character's content focused on reproductive fluids (e.g., semen, breeding, cumflation)?
+Is your character's content focused on lactation or milk?
+Is your character's content focused on sweat or musk?
+Is your character's content focused on saliva?
+Is your character's content focused on blood?
+Is your character's content focused on tears?
+Is your character's content focused on slob, messy, or unhygienic themes?
+Is your character's content focused on specific clothing, materials, or attire?
+Is your character's content focused on Latex, Rubber, or shiny materials?
+Is your character's content focused on Leather?
+Is your character's content focused on specific uniforms, costumes, or roleplay attire?
+Is your character's content focused on specific body parts or physical features?
+Is your character's content focused on SFW (Safe For Work) body parts or physical features?
+Is your character's content focused on Paws or Feet?
+Is your character's content focused on Maws or Tongues?
+Is your character's content focused on Bellies or Guts?
+Is your character's content focused on Snouts or Muzzles?
+Is your character's content focused on Tails?
+Is your character's content focused on Ears?
+Is your character's content focused on Arms, Armpits or Muscles?
+Is your character's content focused on sexual body parts or physical features?
+Is your character's content focused on the Genitalia (penis, testicles, urethra, vagina)?
+Is your character's content focused on the Chest Area? (breasts, nipples, moobs)
+Is your character's content focused on Butts?
+Is your character's content focused on the general appearance, shape, or size of butts?
+Is your character's content focused on anal stretching or expansion?
+Is your character's content focused on wedgies or butt exposure?
+Is your character's content focused on penetration or sex?
+Is your character primarily a personal fursona or avatar representing yourself?
+Is your character an original character (OC) created for a specific story, game, or independent roleplay?
+Is your character a fan-made character (FC) based on an existing fictional universe or franchise (e.g., Pokémon, Zootopia, Star Wars)?
+Is your character primarily a mascot, brand character, or associated with a public identity/organization?
+Has your character been involved in a significant controversy or drama within the furry fandom?
+Has your character been involved in an illegal or highly unethical conduct controversy within the furry fandom?
+Has your character been involved in an harassment, stalking, or doxxing controversy within the furry fandom?
+Has your character been involved in an abuse (e.g., physical, emotional, sexual) controversy within the furry fandom?
+Has your character been involved in a fraud, scams, or theft controversy within the furry fandom?
+Has your character been involved in misconduct related to content or intellectual property controversy within the furry fandom?
+Has your character been involved in an art theft or plagiarism crontroversy within the furry fandom?
+Has your character been involved in a non-delivery of commissions or products/services controversy within the furry fandom?
+Has your character been involved in a misuse of intellectual property or community assets controversy within the furry fandom?
+Has your character been involved in public behavioral issues controversy within the furry fandom?
+Has your character been involved in frequent public arguments, outbursts, or excessive negativity controversies within the furry fandom?
+Has your character been involved in a public "call-out" or widespread criticism within the furry fandom?
+Has your character been involved in a controversy that led to the individual being ostracized or banned from furry fandom spaces/events?
+Has your character been banned from conventions or major fandom events?
+Has your character been removed from prominent online communities or groups (e.g., Discord servers, forums)?
+Has your character faced widespread social shunning or "cancellation" within the fandom?
+Has your character been involved in a controversy that led to formal legal action or incarceration?
+Has your character faced criminal charges or legal proceedings (e.g., arrest, trial)?
+Has your character been to jail or prison?
+Has your character been involved in civil lawsuits as a defendant (e.g., being sued)?
+Is your character an Invertebrate Animal?
+Is your character a Cold-Blooded Animal?
+Is your character a Vertebrate Animal?
+Is your character Non-Animal based?
+Is your character originated from a known culture or mythology?
+Is your character originated from Japanese culture/mythology?
+Is your character originated from Greek/Roman culture/mythology
+Is your character originated from Norse culture/mythology?
+Is your character originated from Egyptian culture/mythology?
+Is your character originated from Native/Indigenous culture/mythology?
