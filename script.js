@@ -1,40 +1,52 @@
-// The structure of our knowledge tree
+// 1. THE ENGINE: The structure of our knowledge
 class Node {
     constructor(data, yes = null, no = null) {
-        this.data = data; // The question OR the final guess
-        this.yes = yes;   // Pointer to next node if answer is Yes
-        this.no = no;    // Pointer to next node if answer is No
+        this.data = data;
+        this.yes = yes;
+        this.no = no;
     }
-
-    // A leaf node has no children (it's a guess, not a question)
     isLeaf() {
         return this.yes === null && this.no === null;
     }
 }
 
-// 1. YOUR STARTING QUESTION BANK
-// You can expand this initial "Seed" tree with your data!
-let root = new Node("Does your character have fur?", 
-    new Node("Is it a canine?", 
-        new Node("Wolf"), 
-        new Node("Dutch Angel Dragon")
-    ), 
-    new Node("Does it have scales?", 
-        new Node("Dragon"), 
-        new Node("Protogen")
-    )
-);
-
+// 2. THE DATA LOADER: This replaces the manual 'root = new Node...'
+let root = null;
 let currentNode = root;
 let parentNode = null;
-let lastChoice = null; // Track if we went 'yes' or 'no' to get here
+let lastChoice = null;
 
 const questionEl = document.getElementById('question-text');
 const gameUI = document.getElementById('game-ui');
 const learningUI = document.getElementById('learning-ui');
 
-// 2. CORE GAME LOGIC
+async function loadGameData() {
+    try {
+        // We fetch the JSON created by your Python script
+        const response = await fetch('data.json');
+        const data = await response.json();
+        
+        // Convert the flat JSON objects back into "Node" classes
+        root = convertToNodes(data);
+        initGame();
+    } catch (err) {
+        questionEl.innerText = "Error: Please run compiler.py to generate data.json first!";
+        console.error("Failed to load question bank:", err);
+    }
+}
+
+function convertToNodes(obj) {
+    if (!obj) return null;
+    return new Node(
+        obj.data,
+        convertToNodes(obj.yes),
+        convertToNodes(obj.no)
+    );
+}
+
+// 3. THE GAME LOGIC
 function updateUI() {
+    if (!currentNode) return;
     if (currentNode.isLeaf()) {
         questionEl.innerHTML = `Is your character a <strong>${currentNode.data}</strong>?`;
     } else {
@@ -48,11 +60,9 @@ function handleInput(isYes) {
             questionEl.innerText = "✨ I got it! The fandom is small, but I am wise.";
             document.getElementById('action-buttons').classList.add('hidden');
         } else {
-            // Game lost - Trigger learning mode
             showLearningUI();
         }
     } else {
-        // Move deeper into the tree
         parentNode = currentNode;
         lastChoice = isYes;
         currentNode = isYes ? currentNode.yes : currentNode.no;
@@ -60,7 +70,6 @@ function handleInput(isYes) {
     }
 }
 
-// 3. THE LEARNING SYSTEM
 function showLearningUI() {
     gameUI.classList.add('hidden');
     learningUI.classList.remove('hidden');
@@ -72,12 +81,9 @@ function submitNewKnowledge() {
 
     if (!newName || !newQuest) return alert("Please fill both fields!");
 
-    // Math/Logic: Create a new branch
-    // The old guess becomes the 'No' and the new character becomes the 'Yes'
     const oldGuess = currentNode.data;
     const newNode = new Node(newQuest, new Node(newName), new Node(oldGuess));
 
-    // Attach this new branch back to the tree
     if (lastChoice === true) parentNode.yes = newNode;
     else parentNode.no = newNode;
 
@@ -85,28 +91,14 @@ function submitNewKnowledge() {
     initGame();
 }
 
-// 4. UTILITIES
 function initGame() {
     currentNode = root;
     parentNode = null;
     gameUI.classList.remove('hidden');
     learningUI.classList.add('hidden');
     document.getElementById('action-buttons').classList.remove('hidden');
-    document.getElementById('new-character-name').value = "";
-    document.getElementById('new-question').value = "";
     updateUI();
 }
 
-// Export function to save your progress to a file
-function exportData() {
-    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(root));
-    const downloadAnchorNode = document.createElement('a');
-    downloadAnchorNode.setAttribute("href", dataStr);
-    downloadAnchorNode.setAttribute("download", "furry_tree_update.json");
-    document.body.appendChild(downloadAnchorNode);
-    downloadAnchorNode.click();
-    downloadAnchorNode.remove();
-}
-
-// Start the game on load
-initGame();
+// Start the loading process
+loadGameData();
