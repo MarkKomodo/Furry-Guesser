@@ -1,40 +1,66 @@
 import json
 import re
 
-def parse_obsidian_to_tree(filename):
+def clean_text(text):
+    # Removes numbers, dots, dashes, and stars from the start
+    return re.sub(r'^[\d\.\-\*\s]+', '', text).strip()
+
+def get_indent(line):
+    # Counts leading spaces/tabs
+    return len(line) - len(line.lstrip())
+
+def parse_to_tree(filename):
     with open(filename, 'r') as f:
-        lines = f.readlines()
+        # Filter out empty lines
+        lines = [l for l in f.readlines() if l.strip()]
 
-    def get_indent(line):
-        return len(line) - len(line.lstrip())
+    if not lines:
+        return None
 
-    def build_tree(index, indent):
-        if index >= len(lines):
-            return None, index
+    # Stack to keep track of nodes at different indentation levels
+    stack = []
+    root = None
 
-        line = lines[index].strip()
-        # Clean up numbers/bullets: "1.2. Is it a dog?" -> "Is it a dog?"
-        clean_text = re.sub(r'^[\d\.\-\*\s]+', '', line)
-        
-        node = {"data": clean_text, "yes": None, "no": None}
-        next_idx = index + 1
+    for line in lines:
+        indent = get_indent(line)
+        text = clean_text(line)
+        new_node = {"data": text, "yes": None, "no": None}
 
-        # Check if next line is a CHILD (deeper indent)
-        if next_idx < len(lines) and get_indent(lines[next_idx]) > indent:
-            node["yes"], next_idx = build_tree(next_idx, get_indent(lines[next_idx]))
+        # If the stack is empty, this is our root
+        if not stack:
+            root = new_node
+            stack.append((indent, new_node))
+            continue
 
-        # Check if next line is a SIBLING (same indent)
-        if next_idx < len(lines) and get_indent(lines[next_idx]) == indent:
-            node["no"], next_idx = build_tree(next_idx, indent)
+        # Find the parent or sibling
+        # Pop from stack until we find a node with less or equal indent
+        while stack and stack[-1][0] > indent:
+            stack.pop()
 
-        return node, next_idx
+        if not stack:
+            # This shouldn't happen with proper indentation
+            continue
 
-    tree, _ = build_tree(0, get_indent(lines[0]))
-    return tree
+        last_indent, last_node = stack[-1]
 
-# Generate the JSON file
-tree_data = parse_obsidian_to_tree('questions.txt')
-with open('data.json', 'w') as f:
-    json.dump(tree_data, f, indent=4)
+        if indent > last_indent:
+            # This is a CHILD (The "YES" path)
+            last_node["yes"] = new_node
+        else:
+            # This is a SIBLING (The "NO" path)
+            # Find the actual last node at this level to attach to
+            last_node["no"] = new_node
+            stack.pop() # Remove the old sibling to make room for the new one
 
-print("✅ Success! data.json has been created.")
+        stack.append((indent, new_node))
+
+    return root
+
+# Main execution
+try:
+    tree_data = parse_to_tree('questions.txt')
+    with open('data.json', 'w') as f:
+        json.dump(tree_data, f, indent=4)
+    print("✅ Success! data.json created with an iterative loop.")
+except Exception as e:
+    print(f"❌ Error: {e}")
